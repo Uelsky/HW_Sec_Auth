@@ -215,5 +215,5 @@ http {
 * [client.pfx](resources/client.pfx)
 * [Пароль для импорта](resources/pass_for_import.ini)
 * [server.crt](resources/server.crt)
-[](resources/cert.png)
-[](resources/bad_request.png)
+* ![](resources/cert.png)
+* ![](resources/bad_request.png)
